@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Syscom\\SourceCode\\CRM\\CHT.CRM\\行銷活動方式\\新問卷平台\\SurveyCRMWebApi\\SurveyCRMWebApi\\Shortener.Common.Dotnet46\\SurveyCRMWebApi.Common.Dotnet46.csproj": {}
+  },
+  "projects": {
+    "D:\\Syscom\\SourceCode\\CRM\\CHT.CRM\\行銷活動方式\\新問卷平台\\SurveyCRMWebApi\\SurveyCRMWebApi\\Shortener.Common.Dotnet46\\SurveyCRMWebApi.Common.Dotnet46.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Syscom\\SourceCode\\CRM\\CHT.CRM\\行銷活動方式\\新問卷平台\\SurveyCRMWebApi\\SurveyCRMWebApi\\Shortener.Common.Dotnet46\\SurveyCRMWebApi.Common.Dotnet46.csproj",
+        "projectName": "Shortener.Common.Dotnet46",
+        "projectPath": "D:\\Syscom\\SourceCode\\CRM\\CHT.CRM\\行銷活動方式\\新問卷平台\\SurveyCRMWebApi\\SurveyCRMWebApi\\Shortener.Common.Dotnet46\\SurveyCRMWebApi.Common.Dotnet46.csproj",
+        "packagesPath": "C:\\Users\\allentite\\.nuget\\packages\\",
+        "outputPath": "D:\\Syscom\\SourceCode\\CRM\\CHT.CRM\\行銷活動方式\\新問卷平台\\SurveyCRMWebApi\\SurveyCRMWebApi\\Shortener.Common.Dotnet46\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\allentite\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "D:\\Syscom\\SourceCode\\CRM\\CHT.CRM\\行銷活動方式\\新問卷平台\\SurveyCRMWebApi\\common\\Shortener.Common\\Shortener.Common.csproj": {
+                "projectPath": "D:\\Syscom\\SourceCode\\CRM\\CHT.CRM\\行銷活動方式\\新問卷平台\\SurveyCRMWebApi\\common\\Shortener.Common\\Shortener.Common.csproj"
+              },
+              "D:\\Syscom\\SourceCode\\CRM\\CHT.CRM\\行銷活動方式\\新問卷平台\\SurveyCRMWebApi\\_mods\\syscom.core\\src\\syscom.net45.csproj": {
+                "projectPath": "D:\\Syscom\\SourceCode\\CRM\\CHT.CRM\\行銷活動方式\\新問卷平台\\SurveyCRMWebApi\\_mods\\syscom.core\\src\\syscom.net45.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.1.58, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurveyCRMWebApiV2", "SurveyCRMWebApi\SurveyCRMWebApiV2.csproj", "{DE0AB2F7-25DA-4DA0-B448-9D476E5BE7E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{302E7866-CFA1-4808-8B12-20B917944E70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE0AB2F7-25DA-4DA0-B448-9D476E5BE7E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE0AB2F7-25DA-4DA0-B448-9D476E5BE7E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE0AB2F7-25DA-4DA0-B448-9D476E5BE7E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE0AB2F7-25DA-4DA0-B448-9D476E5BE7E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{302E7866-CFA1-4808-8B12-20B917944E70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{302E7866-CFA1-4808-8B12-20B917944E70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{302E7866-CFA1-4808-8B12-20B917944E70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{302E7866-CFA1-4808-8B12-20B917944E70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55F4BA05-1BB6-42FF-8E98-BAAA0BDD24B4}
+	EndGlobalSection
+EndGlobal
